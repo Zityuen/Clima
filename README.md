@@ -1,6 +1,6 @@
 
 ## Finished App
-![Finished App](https://github.com/Zityuen/ios/blob/master/Clima-iOS11-master/clima.gif)
+![Finished App](https://github.com/Zityuen/Clima/blob/master/clima.gif)
 
 
 ## Fix for App Transport Security Override
